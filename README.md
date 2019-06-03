@@ -70,4 +70,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### ReactJS
 Movie App for ReactJS
->>>>>>> 844f7d74326b1322a3ea964cd5cdd175d7ad8b76
